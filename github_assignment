@@ -1,0 +1,11 @@
+Assignment 2: Github
+
+I cloned ICIJ’s DataShare repository because their introduction got my attention immediately.  According to what’s written in plain English, it seems that they are building a platform that can help extract the names of people, companies as well as locations from documents, index them, and allow a network of individuals to securely share that information to foster journalism collaboration. I kind of regretted cloning it, though. A 428-Mb folder wasn’t what I expected.
+
+To my understanding, this repository brings together a lot of powerful tools, such as Elasticsearch, a full-text search and analytics engine, a natural language software called Stanford CoreNLP, as well as a in-memory data structure store named Redis. Some of the information extraction tools were built on top of machine-learning. Some of them are even multilingual.
+
+I think ICIJ is building this platform to make the most of electronic documents they obtained from mass data leak, and to be prepared for the next one. It’s impossible for human to go through millions of pages in different languages to extract useful information. But this platform might be able to do that.
+
+My guess is this platform is still under construction. Many things were added recently. I actually don’t know how those code works and what will their platform will look like. Would it become an App, a software, a web page, or something else? 
+
+Another question I have: how does it make sure only “trusted individuals” have access to the information? 
